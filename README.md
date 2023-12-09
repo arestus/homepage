@@ -12,5 +12,3 @@ Topics:
 - html
 - css
 - binary-studio-academy
-
-🧙Hocus-pocus!
