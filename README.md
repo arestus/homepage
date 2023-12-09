@@ -1,7 +1,9 @@
 # homepage
+
 My first personal website. Basically this is just a résumé.
 
-Topics: 
+Topics:
+
 - personal
 - website
 - homepage
@@ -10,3 +12,5 @@ Topics:
 - html
 - css
 - binary-studio-academy
+
+🧙Hocus-pocus!
