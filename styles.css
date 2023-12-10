@@ -104,6 +104,17 @@ body {
   display: flex;
   justify-content: start;
 }
+.birth-date {
+  cursor: default;
+}
+
+.contact-info__item:hover:not(.birth-date) {
+  color: #0077b5;
+}
+
+.contact-info__item:hover .contact-info__item-icon:not(.calendar-icon) path {
+  fill: #0077b5;
+}
 
 .contact-info__item:not(:last-child) {
   margin-bottom: 20px;
