@@ -309,10 +309,10 @@ body {
 .box .date {
   position: absolute;
   top: 50%;
-  left: 0px;
+  left: 8px;
   transform: translateY(-50%);
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   border-radius: 100%;
   background: #fff;
   border: 2px solid #d9d9d9;
@@ -323,7 +323,7 @@ body {
 }
 
 .month {
-  margin-top: 16px;
+  margin-top: 10px;
 }
 
 .box .box-content {
